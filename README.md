@@ -1,6 +1,8 @@
 # Isomorphic Console
 
-A very simple mechanism for swapping in sys.print if window.console does not exist. Of course, you could make this more robust by swapping in winston.
+A very simple mechanism for swapping in sys.print if window.console does not exist. 
+
+You could make this more robust by swapping in winston.
 
 ## Installation
 
