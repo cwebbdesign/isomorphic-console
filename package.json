@@ -1,11 +1,17 @@
 {
     "name": "isomorphic-console",
     "version": "0.0.1",
-    "author": "Chris Webb <chris@christopherwdesign.com> (http://blog.mediumequalsmessage.com)",
+    "author": {
+      "name": "Chris Webb",
+      "email": "chris@christopherwdesign.com",
+      "url": "http://blog.mediumequalsmessage.com"
+    },
     "description": "A very simple mechanism for swapping in sys.print if window.console does not exist.",
     "keywords": [
         "console",
-        "logging"
+        "logging",
+        "logger",
+        "isomorphic"
     ],
     "devDependencies": {
         "sys": "0.0.1"
