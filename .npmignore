@@ -1,0 +1,8 @@
+.DS_Store
+.git*
+.npmignore
+test/
+gulpfile.js
+README.md
+.esformatter
+.jshintrc
